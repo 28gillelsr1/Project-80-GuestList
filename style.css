@@ -1,0 +1,20 @@
+body {
+
+background-color:crimson;
+}
+h1{
+    text-align: center;
+    color:cyan;
+}
+#submit_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sort_button{
+    display:none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+input{
+    margin:10px;
+}
